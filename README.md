@@ -14,7 +14,7 @@ Esse projeto se ganha importância quando vemos a quantidade de processos aberto
 
 Esse projeto não vai acabar de vez com a morosidade da justiça, mas faz parte de um pequeno esforço dentro de tantos outros esforços que prometem contribuir cada vez mais por uma justiça melhor. 
 
-Até o presente momento, com os resultados obtidos, foi decidido exportar os modelos de Random Forest e SVC devido a seus bons desempenhos, dentre os que foram testados. O trabalho de melhorar cada vez mais o modelo desse projeto continua ... 
+Até o presente momento, com os resultados obtidos, foi decidido exportar os modelos de Random Forest e SVC devido a seus bons desempenhos e melhores estabilidades na validação cruzada, dentre os que foram testados. O trabalho de melhorar cada vez mais o modelo desse projeto continua ... 
 
 <p align=center>
 <img src="https://cdn-icons-png.flaticon.com/512/9375/9375341.png" width="30%"></p>
