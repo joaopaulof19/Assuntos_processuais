@@ -3,7 +3,7 @@
 ***
 
 
-Neste projeto, vamos classificar o assunto processual de acordo com o texto da sua petição inicial. O grande objetivo por trás disso será evitar que o advogado possa errar o assunto ao qual submete esse processo, e que seja gasto tempo dos servidores lendo a petição inicial e corrigindo seu devido assunto para que ele tenha seu trâmite ocorra de forma correta. 
+Neste projeto, vamos classificar o assunto processual de acordo com o texto da sua petição inicial. O grande objetivo por trás disso será evitar que o advogado possa errar o assunto ao qual submete esse processo, e economizar o tempo dos servidores lendo a petição inicial e corrigindo seu devido assunto para que ele tenha seu trâmite ocorra de forma correta. 
 
 <br>
 <p align=center>
